@@ -12,3 +12,5 @@ http://www.arduino.cc/playground/Learning/SparkFunSerLCD
 The fermentation chiller was built from these plans: http://home.roadrunner.com/~brewbeer/chiller/chiller.PDF
 
 ![Project Photo](http://briancantrell.github.com/arduino-fermentation-chiller-thermostat/project_photo.jpg)
+
+![Example Cosm Graph](http://briancantrell.github.com/arduino-fermentation-chiller-thermostat/cosm-graph.gif)
