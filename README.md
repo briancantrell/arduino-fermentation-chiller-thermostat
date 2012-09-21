@@ -10,3 +10,5 @@ Sparkfun Serial LCD
 http://www.arduino.cc/playground/Learning/SparkFunSerLCD
 
 The fermentation chiller was built from these plans: http://home.roadrunner.com/~brewbeer/chiller/chiller.PDF
+
+![Project Photo](raw.github.com/briancantrell/arduino-fermentation-chiller-thermostat/gh-pages/project_photo.jpg)
